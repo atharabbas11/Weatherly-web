@@ -1,6 +1,8 @@
 ﻿# Weatherly-web
 
-🌤 Weatherly Weatherly is a sleek, real-time weather web application that provides accurate, hourly forecasts and weather updates based on your location or a location of your choice. Whether you're planning your day or just curious about the conditions in another city, Weatherly delivers the data you need — fast, simple, and beautifully.
+🌤 Weatherly 
+
+Weatherly is a sleek, real-time weather web application that provides accurate, hourly forecasts and weather updates based on your location or a location of your choice. Whether you're planning your day or just curious about the conditions in another city, Weatherly delivers the data you need — fast, simple, and beautifully.
 
 🔍 Features ⛅ Live Weather Updates – Get real-time temperature, condition, and icon-based weather summaries.
 
@@ -23,3 +25,4 @@ API: Weather data from WeatherAPI.com
 Notifications: Web Push API
 
 Storage: MongoDB
+
